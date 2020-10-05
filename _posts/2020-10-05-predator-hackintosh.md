@@ -66,4 +66,6 @@ tags:
 - `Sata Mode -> ACPI`
 
 
-Latest Release Download : [Release](https://github.com/KadeReolance/Predator-Helios-300-OpenCore-0.6.0/releases) 
+Latest Release Download : 
+ 
+[![alttext](https://img.shields.io/badge/Download-V1.0.0-BrightGreen?style=flat)](https://github.com/KadeReolance/Predator-Helios-300-OpenCore-0.6.0/releases) 
